@@ -20,11 +20,11 @@ psycopg2 для  взаимодействия с PostgreSQL.
 Получить номера телефонов и статус отправки сообщения. GET запрос на URL (/api/v1/status)
 ##
 ### Запуск приложения
-####Для Mac OS
+#### Для Mac OS
 1. pip3 install -r requirements.txt
 2. python3 app.py
 3. python3 deamon.py  
-####Для других
+#### Для других
 1. pip install flask
 2. pip install psycopg2
 3. python3 app.py
